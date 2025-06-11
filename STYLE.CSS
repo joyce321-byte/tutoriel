@@ -1,0 +1,30 @@
+*{
+    background-color:pink;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+    button{background-color:orange;padding: 5px;
+    }
+    .textArea1{ font-style: italic;
+        font-weight: bold;
+    }
+    #fieldset{border:double 5px orange;
+
+    }
+    div{
+        border: solid 1px;
+    }
+    .divp{
+        border: 3px;
+        margin: 5PX 10px 5PX 10PX;
+        width: 60%;
+
+    }
+    #divG{
+        float: inline-start;
+        padding: 10%;
+    }
+    #divD{
+        padding: 10%;
+        
+    }
+}
+
